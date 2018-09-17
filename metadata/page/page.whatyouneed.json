@@ -1,0 +1,14 @@
+{
+  "_id": "page.whatyouneed",
+  "_type": "page.content",
+  "body": "Your service design team should have planned and designed how the online service is going to work, following [guidance in the GOV.UK service manual](https://www.gov.uk/service-manual/design/form-structure#design-your-forms-for-the-format-theyll-appear-in).\r\n\r\nYou can then use their design to create a prototype in Form Builder. \r\n\r\nTo use the editor, you’ll also need:\r\n\r\n* system account privileges on your computer equivalent to ‘developer’ at MoJ Digital – if in doubt, speak to your IT support\r\n* a GitHub account\r\n\r\nTo deploy your service with the publisher, you’ll also need:\r\n\r\n* to set up development, staging and live environments to host your service\r\n* a digital.justice.gov.uk email account so you can log into the publisher",
+  "components": [
+    {
+      "_id": "page.whatyouneed--inset",
+      "_type": "inset",
+      "html": "[Back to contents](/contents)"
+    }
+  ],
+  "heading": "Using Form Builder: what you’ll need",
+  "url": "what-youll-need"
+}
