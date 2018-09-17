@@ -1,0 +1,14 @@
+{
+  "_id": "page.ids-inputs",
+  "_type": "page.content",
+  "body": "Form Builder uses both IDs and input names.\r\n\r\nIDs: \r\n\r\n- are unique identifiers that Form Builder needs to recognise each item, component and page in your service\r\n- must be unique: no 2 IDs can be the same in your service\r\n\r\nInput names:\r\n\r\n- identify each input item in your service\r\n- allow you to reference or use user inputs in other places – for example, display a user’s answer back to them on a summary screen\r\n- correspond to the HTML ‘name’ attribute",
+  "components": [
+    {
+      "_id": "page.ids-inputs--inset",
+      "_type": "inset",
+      "html": "[Back to contents](/contents)"
+    }
+  ],
+  "heading": "IDs and input names",
+  "url": "ids-inputs"
+}
