@@ -1,0 +1,14 @@
+{
+  "_id": "page.deleting",
+  "_type": "page.content",
+  "body": "## Deleting nested components\r\n\r\nTo delete a component that is part of a page:\r\n\r\n1. In 'Instance mode', navigate to the page containing the component you want to delete\r\n2. Click ‘Components’\r\n3. On the next screen, click ‘Remove’ against that component\r\n4. Click ‘Update components’\r\n\r\n## Deleting pages that are steps\r\n\r\nThe process is similar to deleting nested components:\r\n\r\n1. In 'Instance mode', navigate to the page you want to delete\r\n2. Click ‘Steps’\r\n3. On the next screen, click ‘Remove’ against that page\r\n4. Click ‘Update steps’\r\n\r\n## Deleting standalone components and pages\r\n\r\n1. In 'Instance mode', navigate to the page you want to delete\r\n2. Click the red ‘Delete instance’ button at the bottom of the screen",
+  "components": [
+    {
+      "_id": "page.deleting--inset",
+      "_type": "inset",
+      "html": "[Back to contents](/contents)"
+    }
+  ],
+  "heading": "Deleting components and pages",
+  "url": "deleting"
+}
