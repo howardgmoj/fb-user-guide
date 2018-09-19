@@ -1,7 +1,7 @@
 {
   "_id": "page.edit-components",
   "_type": "page.content",
-  "body": "Navigate to the component you want to edit. To do this, either:\r\n\r\n- navigate to the page using Wysiwyg mode, then click on the pencil (✎) or brackets ('{}') icons on the left\r\n- navigate to the page using instance mode, then click on the component’s name\r\n\r\nLike when [editing pages](/edit-pages), you’ll see a list of properties you can edit.\r\n\r\nAdditional properties for components are:\r\n\r\n- **Label**: sets the html <label> tag\r\n- **Hint**: sets any hint text you want to display to the user\r\n- **Items**: lets you add individual items to the component",
+  "body": "Navigate to the component you want to edit. To do this, either:\r\n\r\n- navigate to the page using 'Build mode', then click on the pencil (✎) or brackets ('{}') icons on the left\r\n- navigate to the page using 'Properties mode', then click on the component’s name\r\n\r\nLike when [editing pages](/edit-pages), you’ll see a list of properties you can edit.\r\n\r\nAdditional properties for components are:\r\n\r\n- **Label**: sets the html <label> tag\r\n- **Hint**: sets any hint text you want to display to the user\r\n- **Items**: lets you add individual items to the component",
   "components": [
     {
       "_id": "page.edit-components--inset",

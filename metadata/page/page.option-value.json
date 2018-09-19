@@ -1,0 +1,14 @@
+{
+  "_id": "page.option-value",
+  "_type": "page.content",
+  "body": "Form Builder assign a value when a user selects a particular answer. These are called 'option values'.\r\n\r\nOption values are not shown to users.\r\n\r\n## Example\r\n\r\nLet's say you have a select list (dropdown) of countries. \r\n\r\nYou might want to display those countries in different languages to users (such as in English and Welsh).\r\n\r\nIn that case, each country would have two possible labels.\r\n\r\nBut: you would only set **one** option value. In the case of countries, this might be an international country code (such as an ISO code).",
+  "components": [
+    {
+      "_id": "page.option-value--inset",
+      "_type": "inset",
+      "html": "[Back to contents](/contents)"
+    }
+  ],
+  "heading": "Option values",
+  "url": "option-values"
+}

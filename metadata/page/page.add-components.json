@@ -11,7 +11,7 @@
     {
       "_id": "page.add-components--content",
       "_type": "content",
-      "html": "To add a component to page (a 'nested' component):\r\n\r\n1. Click on 'instance mode' at the top of the screen\r\n2. Navigate to the page you want using the light blue navigation bar under the top nav bar\r\n3. Under 'Components', click ‘Add component’\r\n4. Choose the component you want to add from the list and click ‘Choose type’\r\n5. On the next screen, the system will suggest an ID for the component - you can choose this or override it with your own\r\n6. Click ‘Set id’"
+      "html": "To add a component to page (a 'nested' component):\r\n\r\n1. Click on 'Properties mode' at the top of the screen\r\n2. Navigate to the page you want using the light blue navigation bar under the top nav bar\r\n3. Under 'Components', click ‘Add component’\r\n4. Choose the component you want to add from the list and click ‘Choose type’\r\n5. On the next screen, the system will suggest an ID for the component - you can choose this or override it with your own\r\n6. Click ‘Set id’"
     },
     {
       "_id": "page.add-components--inset",

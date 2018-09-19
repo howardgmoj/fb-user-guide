@@ -1,7 +1,7 @@
 {
   "_id": "page.adding-items",
   "_type": "page.content",
-  "body": "Some components are made up of smaller items.\r\n\r\nFor example, a radio button list (component) contains individual radio buttons (items).\r\n\r\nTo add an item:\r\n\r\n1. Click on 'Instance' mode at the top of the screen\r\n2. Navigate to the page using the links (in the light blue bar)\r\n3. Under 'Components', click on the name of the component you want to add an item to\r\n4. Click ‘Add item’ from the component instance screen\r\n5. On the next screen, choose a unique id for the item\r\n6. Click ‘Set id’",
+  "body": "Some components are made up of smaller items.\r\n\r\nFor example, a radio button list (component) contains individual radio buttons (items).\r\n\r\nTo add an item:\r\n\r\n1. Click on 'Properties mode' at the top of the screen\r\n2. Navigate to the page using the links (in the light blue bar)\r\n3. Under 'Components', click on the name of the component you want to add an item to\r\n4. Click ‘Add item’ from the component instance screen\r\n5. On the next screen, choose a unique id for the item\r\n6. Click ‘Set id’",
   "components": [
     {
       "_id": "page.adding-items--inset",
