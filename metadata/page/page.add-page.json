@@ -1,7 +1,7 @@
 {
   "_id": "page.add-page",
   "_type": "page.content",
-  "body": "To add a page, click 'Add page' in the top blue navigation bar\r\n\r\nIn the next screen, choose where you want to add the page within your service.\r\n\r\nYou can add a page as:\r\n\r\n- a [step](/steps) of the start page (that is, to the main service flow) - you can change its position in the flow later\r\n- a step of the another page that has steps enabled - you can change its position in this flow later\r\n\r\nYou can also add a page as standalone page. This means it's not part of any page flow",
+  "body": "To add a page, click 'Add page' in the top blue navigation bar\r\n\r\nIn the next screen, choose where you want to add the page within your service.\r\n\r\nYou can add a page as:\r\n\r\n- a [step](/steps) of the start page (that is, to the main service flow) - you can change its position in the flow later\r\n- a step of the another page that has steps enabled - you can change its position in this flow later\r\n\r\nYou can also add a page as standalone page. This means it's not part of any page flow.",
   "components": [
     {
       "_id": "page.add-page--inset",

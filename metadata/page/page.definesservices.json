@@ -1,7 +1,7 @@
 {
   "_id": "page.definesservices",
   "_type": "page.content",
-  "body": "Form Builder works by representing all of the elements in the service as data written in JSON (Javascript Object Notation).\r\n\r\nThis means you use JSON to define:\r\n\r\n* your overall service\r\n* each page within the service\r\n* each component and item within each page (such as a radio button or text box)\r\n\r\nYou store your JSON files in a repository (for example, on [GitHub](https://github.com/)).\r\n\r\n[Find out more about using JSON in Form Builder in the technical documentation](https://fbdocs.herokuapp.com/glossary/#json-and-json-schema).",
+  "body": "This means you use JSON to define:\r\n\r\n* your overall form (its name and phase - Alpha, Beta or Live)\r\n* each page within the form\r\n* each component and item within each page (such as a radio button or text box)\r\n\r\nYou store your JSON files in a repository on [GitHub](https://github.com/).",
   "components": [
     {
       "_id": "page.definesservices--inset",
@@ -9,6 +9,7 @@
       "html": "[Back to contents](/contents)"
     }
   ],
-  "heading": "How Form Builder defines services",
-  "url": "how-defines-services"
+  "heading": "How Form Builder uses JSON (javascript object notation)",
+  "lede": "Form Builder works by representing all of the elements in a form as data written in JSON (javascript object notation).",
+  "url": "how-uses-json"
 }

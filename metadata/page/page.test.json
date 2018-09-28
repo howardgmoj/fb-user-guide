@@ -1,0 +1,19 @@
+{
+  "_id": "page.test",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.test--radios.yes",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.test--radios.yes--radio.yes",
+          "_type": "radio",
+          "value": "yes"
+        }
+      ],
+      "name": "yes"
+    }
+  ],
+  "url": "test"
+}

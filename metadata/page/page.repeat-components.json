@@ -1,7 +1,7 @@
 {
   "_id": "page.repeat-components",
   "_type": "page.content",
-  "body": "You can allow users to add more than one answer to a question. To do this, you make components ‘repeatable’.\r\n\r\n1. Navigate to the properties screen of the component that you want to be repeatable (in 'Properties mode')\r\n2. Click on ‘Repeatable’\r\n3. On the next screen, select ‘yes’ and click ‘Update Repeatable’\r\n\r\nOn the component page, you should now see a new menu option for ‘Repeatable properties’. Click on this to see a list of properties you can set:\r\n\r\n- Repeatable section heading optional\r\n- Repeatable section first paragraph optional\r\n- Minimum number of repeatable items optional\r\n- Maximum number of repeatable items optional\r\n- Text to add another answer optional\r\n- Add another default\r\n- Text to remove an answer\r\n\r\n## Setting input names\r\n\r\nFor repeatable components, you only need to create one [input name](/input-names), without a number.\r\n\r\nForm Builder will add numbers to each repeatable component automatically.\r\n\r\nFor example, if a user can 'Add another child', your input name for that repeatable component would be simply 'child'.",
+  "body": "1. Navigate to the properties screen of the component that you want to be repeatable (in 'Properties mode')\r\n2. Click on ‘Repeatable’\r\n3. On the next screen, select ‘yes’ and click ‘Update Repeatable’\r\n\r\nOn the component page, you should now see a new menu option for ‘Repeatable properties’. Click on this to see a list of properties you can set:\r\n\r\n- Repeatable section heading optional\r\n- Repeatable section first paragraph optional\r\n- Minimum number of repeatable items optional\r\n- Maximum number of repeatable items optional\r\n- Text to add another answer optional\r\n- Add another default\r\n- Text to remove an answer\r\n\r\nIf you want to make a fieldset repeatable, you'll also need to set a [model name](/model) for it.\r\n\r\n## Setting input names\r\n\r\nFor repeatable components, you only need to create one [input name](/input-names), without a number.\r\n\r\nForm Builder will add numbers to each repeatable component automatically.\r\n\r\nFor example, if a user can 'Add another child', your input name for that repeatable component would be simply 'child'.",
   "components": [
     {
       "_id": "page.repeat-components--inset",
@@ -10,5 +10,6 @@
     }
   ],
   "heading": "Making components repeatable",
+  "lede": "You can allow users to add more than one answer to a question. To do this, you make components ‘repeatable’.",
   "url": "repeat-components"
 }

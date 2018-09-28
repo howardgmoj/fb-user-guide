@@ -1,0 +1,15 @@
+{
+  "_id": "page.conditional-component",
+  "_type": "page.content",
+  "body": "This is also known as 'conditional reveal'.\r\n\r\nFor example, you might ask whether a user has a particular piece of information. They could choose 'Yes' or 'No' from a radio list.\r\n\r\nIf they choose 'Yes', they would then see a text field on the same page to enter the information. \r\n\r\n## How to add a conditional component\r\n\r\n1. Navigate to the page where you want to add the conditional component\r\n2. In the top navigation bar, click on 'Properties mode'\r\n3. Under 'Components', click on the component (for example, a radio list)\r\n4. Under 'Items', click on the item (for example, the answer 'Yes' in a radio list)\r\n5. Under 'Conditional components', click on 'Add conditional component')",
+  "components": [
+    {
+      "_id": "page.conditional-component--inset",
+      "_type": "inset",
+      "html": "[Back to contents](/contents)"
+    }
+  ],
+  "heading": "Conditional components",
+  "lede": "If you want an input to be revealed on a page only when a user selects a particular answer, add a conditional component.",
+  "url": "conditional-components"
+}

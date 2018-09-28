@@ -1,8 +1,18 @@
 {
   "_id": "page.additionalcomponents",
   "_type": "page.content",
-  "body": "If you want an input to be revealed on a page only when a user selects a particular answer, add an additional component.\r\n\r\nThis is also known as 'conditional reveal'.\r\n\r\nFor example, you might ask whether a user has a particular piece of information. They could choose 'Yes' or 'No' from a radio list.\r\n\r\nIf they choose 'Yes', they would then see a text field on the same page to enter the information. \r\n\r\n## How to add an additional component\r\n\r\n1. Navigate to the page where you want to add the additional component\r\n2 .Under 'Components', click on the component (for example, a radio list)\r\n3. Under 'Items', click on the item (for example, the answer 'Yes' in a radio list)\r\n4. Under 'Additional components', click on 'Add additional component')",
+  "body": "For example, you might want to add:\r\n\r\n- extra content about what the user will need to complete the form as a 'hide/reveal' component\r\n- some warning text",
   "components": [
+    {
+      "_id": "page.additionalcomponents--inset--2",
+      "_type": "inset",
+      "html": "Only some types of pages can have additional components"
+    },
+    {
+      "_id": "page.additionalcomponents--content",
+      "_type": "content",
+      "html": "## How to add an additional component\r\n\r\n1. Navigate to the page where you want to add the additional component\r\n2. In the top navigation bar, click on 'Properties mode'\r\n3. In the list of properties, click on 'Additional properties'\r\n4. Under 'Additional components' click on 'Add extraComponent'\r\n5. Enter details about the component"
+    },
     {
       "_id": "page.additionalcomponents--inset",
       "_type": "inset",
@@ -10,5 +20,6 @@
     }
   ],
   "heading": "Additional components",
+  "lede": "You can add components below the 'Start' or 'Continue' button - these are called additional components.",
   "url": "additional-components"
 }

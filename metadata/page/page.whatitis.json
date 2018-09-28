@@ -1,7 +1,7 @@
 {
   "_id": "page.whatitis",
   "_type": "page.content",
-  "body": "Form Builder is a tool that allows you to prototype, build, publish and manage digital services.\r\n\r\nIt’s designed to let service teams quickly and easily build an online service, using built-in GOV.UK design patterns. \r\n\r\nIt means you don’t have to code a new digital service from scratch.\r\n\r\n## The Form Builder components\r\n\r\nForm Builder has 4 main components:\r\n\r\n1. The **editor** creates the service.\r\n2. The **publisher** deploys the service online and manages it (configures the service on different publishing environments and manages permissions).\r\n3. The **runner** hosts the part of the service that the end user sees.\r\n4. The **submitter** sends the information entered by a user to the service operator.\r\n\r\nTo create and deploy a service, you’ll need to use the editor and publisher.",
+  "body": "It’s designed to let teams quickly and easily build an online form, using built-in GOV.UK design patterns. \r\n\r\nIt means you don’t have to code a new digital form from scratch.\r\n\r\n## The Form Builder components\r\n\r\nForm Builder has 4 main components:\r\n\r\n1. The **editor** creates the form.\r\n2. The **publisher** deploys the form online and manages it (configures the form on different publishing environments and manages permissions).\r\n3. The **runner** hosts the part of the form that the end user sees.\r\n4. The **submitter** sends the information entered by a user to the operational team who process the completed form.\r\n\r\nTo create and deploy a form, you’ll need to use the editor and publisher.",
   "components": [
     {
       "_id": "page.whatitis--inset",
@@ -10,5 +10,6 @@
     }
   ],
   "heading": "Form Builder: what it is",
+  "lede": "Form Builder is a tool that allows you to prototype, build, publish and manage digital forms.",
   "url": "what-it-is"
 }
