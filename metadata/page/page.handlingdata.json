@@ -6,7 +6,7 @@
     {
       "_id": "page.handlingdata--inset",
       "_type": "inset",
-      "html": "[Back to contents](/contents)"
+      "html": "[Back to contents](/)"
     }
   ],
   "heading": "How Form Builder handles users’ data",
