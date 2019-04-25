@@ -1,0 +1,14 @@
+{
+  "_id": "page.namespace",
+  "_type": "page.content",
+  "body": "User inputs are stored against a key, called the ‘input name’.\r\n\r\nBy also using namespace names, you can (for example) concatenate a child item’s input name with the namespace name of its parent page.\r\n\r\nThis allows you to, for example, reuse a component (with the same name) in different contexts. The user’s inputs would still be saved against unique keys.\r\n\r\nFor example:\r\n\r\nYou create a generic text component to capture full names. You give it the input name ‘fullname’.\r\n\r\nYou could use this on both:\r\n\r\n- a page asking for an applicant’s details\r\n- a page asking for a defendant’s details\r\n\r\nBy giving the defendant’s page the namespace name ‘defendant’ and the applicant’s page the namespace name ‘applicant’, the user input would be stored against these keys:\r\n\r\n- defendant.fullname\r\n- applicant.fullname\r\n\r\nIf you protect the namespace name, you stop it being overwritten by another input name.\r\n\r\nSome components *require* a namespace name - for example, a repeatable fieldset.",
+  "components": [
+    {
+      "_id": "page.namespace--inset",
+      "_type": "inset",
+      "html": "[Back to contents](/)"
+    }
+  ],
+  "heading": "Namespace name and namespace protection",
+  "url": "/namespace"
+}
