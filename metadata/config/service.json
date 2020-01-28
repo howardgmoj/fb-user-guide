@@ -3,5 +3,6 @@
   "_type": "config.service",
   "name": "Form Builder user guide",
   "phase": "alpha",
-  "phaseText": "Building forms like a pro"
+  "phaseText": "Building forms like a pro",
+  "_isa": "@ministryofjustice/fb-components-core=>service"
 }
